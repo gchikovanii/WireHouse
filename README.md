@@ -1,5 +1,5 @@
 # WireHouse
-This is a simple Wire House Application.
+This is a simple Desktop Wire House Application.
 You can add and remove users!
 You can add , edit and remove Products!
 Make order of presented products and it will automatically add into 
